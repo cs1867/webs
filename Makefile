@@ -1,4 +1,6 @@
-# build an executable 
+#
+# build webserver and webclient 
+# 
 
 CC=gcc
 
